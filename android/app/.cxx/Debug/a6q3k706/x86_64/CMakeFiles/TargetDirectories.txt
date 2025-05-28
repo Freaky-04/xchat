@@ -1,2 +1,0 @@
-C:/Users/jogul/OneDrive/Documents/Major Project/Whats App/xchat/android/app/.cxx/Debug/a6q3k706/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/jogul/OneDrive/Documents/Major Project/Whats App/xchat/android/app/.cxx/Debug/a6q3k706/x86_64/CMakeFiles/rebuild_cache.dir
